@@ -168,7 +168,6 @@ Histogram Equalization
 - The project is designed as a Digital Image Processing project enhanced with local AI analysis.
 
 ## Author
-
-**G. Jagadeesh**
+**M. PAVAN KUMAR** 
 
 Digital Image Processing + AI Analysis Project
